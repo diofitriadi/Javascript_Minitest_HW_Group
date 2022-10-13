@@ -4,7 +4,7 @@
 /* Cetak program dari 1 - 100 */
 for (let i = 0; i <= 100; i++) {
    /*  Jika nilai bisa dibagi tiga, cetak tiga */
-	if (i % 3 == 0) {
+  if (i % 3 == 0) {
   	console.log("Tiga")
   } 
   /*  Jika nilai bisa dibagi lima, cetak lima */
