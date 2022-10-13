@@ -5,7 +5,7 @@
 for (let i = 0; i <= 100; i++) {
    /*  Jika nilai bisa dibagi tiga, cetak tiga */
   if (i % 3 == 0) {
-  	console.log("Tiga")
+    console.log("Tiga")
   } 
   /*  Jika nilai bisa dibagi lima, cetak lima */
   else if (i % 5 == 0) {
